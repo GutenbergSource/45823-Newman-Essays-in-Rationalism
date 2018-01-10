@@ -1,0 +1,20 @@
+<style>
+
+.adAuthor
+{
+    margin-top: 1em;
+    font-size: x-large;
+    font-weight: bold;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.adPrice
+{
+    font-weight: bold;
+    position: absolute;
+    right: 16%;
+    top: auto;
+}
+
+</style>
